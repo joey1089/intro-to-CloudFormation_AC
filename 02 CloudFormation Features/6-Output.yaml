@@ -47,3 +47,4 @@ Outputs:
     Value: !GetAtt
       - Ec2Instance
       - PublicDnsName
+      
